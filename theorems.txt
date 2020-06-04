@@ -1,2 +1,1 @@
 Every open cover of a compact set admits a finite subcover
-Every non-empty set of real numbers that is bounded above has a least upper bound
