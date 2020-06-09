@@ -1,4 +1,5 @@
 Every open cover of a compact set admits a finite subcover
 There are an infinite number of prime numbers
-Two is the only even prime number.
+Two is the only even prime number
+An NxN matrix A is invertible if and only if its determinant is nonzero..
 
